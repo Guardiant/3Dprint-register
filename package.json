@@ -1,0 +1,24 @@
+{
+  "name": "3dprint-register",
+  "version": "1.0.0",
+  "description": "3D在线-用户注册页面",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "3Dprint-register"
+  },
+  "keywords": [
+    "注册"
+  ],
+  "author": "yanxiaodi 929213769@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch-path": "^0.1.0"
+  }
+}

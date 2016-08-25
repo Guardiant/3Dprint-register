@@ -1,0 +1,32 @@
+.nc-login-left ol li {
+  height: 72px !important;
+  padding: 0;
+  padding-right: 20px;
+  width: 180px; }
+
+.nc-login-left ol li img {
+  display: inline-block;
+  float: left; }
+
+.nc-login-left ol li .box-text {
+  display: inline-block; }
+
+.nc-login-left ol li .box-text a {
+  text-decoration: none;
+  display: inline; }
+
+.nc-login-left ol li .box-text a:hover {
+  color: blue; }
+
+.nc-login-left ol li .box-text a h2 {
+  display: block;
+  font-size: 1rem;
+  line-height: 1rem;
+  vertical-align: top;
+  margin-bottom: .3rem;
+  color: #1f88db; }
+
+.nc-login-left ol li .box-text p {
+  display: inline-block;
+  font-size: .5rem;
+  line-height: 1.1rem; }
